@@ -4,7 +4,6 @@ Jupyter notebooks for creating a TensorFlow Lite model for "wake word" recogniti
 
 A pre-trained model has already been generated and added to the firmware folder.
 
-If you want to train your own, I added a couple of extra folders to the training data they are available here:
 
 ## Firmware
 
